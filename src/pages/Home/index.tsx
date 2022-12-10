@@ -60,7 +60,6 @@ export function Home() {
             Começar
           </StartCountDownButton>
         )}
-
       </form>
     </HomeCotainer>
   )
