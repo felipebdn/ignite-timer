@@ -33,7 +33,7 @@ export function Home() {
     }
   })
 
-  const { handleSubmit, watch, reset } = newCycleForm  
+  const { handleSubmit, watch, reset } = newCycleForm
 
   function handleCreateNreCycle(data:NewCycleFormData){
     createNewCycle(data)
