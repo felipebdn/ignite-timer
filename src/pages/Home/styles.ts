@@ -5,8 +5,8 @@ export const HomeCotainer = styled.main`
 
   display: flex;
   flex-direction: column;
+  justify-content: space-evenly;
   align-items: center;
-  justify-content: center;
 
   form{
     display: flex;
