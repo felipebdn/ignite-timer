@@ -3,7 +3,7 @@
 
   <h1 align="center">Ignite Timer</h1>
 
-  ### Clique aqui pra abrir o site - <a href="https://ignite-timer-black.vercel.app/">Ignite-timer</a>
+  ### Clique aqui pra abrir o site - <a href="https://ignite-timer-lemon-three.vercel.app/">Ignite-timer</a>
 
 </p>
 
