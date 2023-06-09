@@ -55,6 +55,8 @@ export function CyclesContextProvider({ children }: CyclesContextProviderProps) 
   useEffect(()=>{
     const stateJSON = JSON.stringify(cyclesState)
     localStorage.setItem('@ignite-timer: cycles-state-1.0.0', stateJSON)
+    console.log('teste');
+    
   },[])
 
   function setSecondsPassed(seconds: number) {
