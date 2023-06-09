@@ -3,10 +3,10 @@
 
   <h1 align="center">Ignite Timer</h1>
 
-  ### Click here for live demo   <a href="https://e-kart.netlify.app/">E-Kart</a>
+  ### Click here for live demo   <a href="https://ignite-timer-black.vercel.app/">Ignite-timer</a>
 
 </p>
 
 ## About The Project:-
 
-![Home page](https://github.com/Sumukha210/E-kart-website/blob/main/public/img/homepage.png?raw=true "Ekart home page")
+![Home page](https://github.com/felipebdn/ignite-timer/blob/main/public/assets/capa.png?raw=true "Ekart home page")
