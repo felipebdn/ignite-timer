@@ -33,4 +33,23 @@ Ignite-timer é
 
 ### Conceitos chave
 
-- #### 
+- #### Context API
+- #### Reducers
+
+# Começando
+
+Este projeto foi inicializado com [Vite](https://vitejs.dev/).
+
+## Scripts Disponíveis
+
+### Para executar o projeto:-
+
+#### `yarn dev`
+
+### Para construir o projeto:-
+
+#### `yarn build`
+
+### Para construir o projeto:-
+
+#### `yarn preview`
