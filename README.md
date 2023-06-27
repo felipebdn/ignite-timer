@@ -11,7 +11,6 @@
 
 ![Home page](https://github.com/felipebdn/ignite-timer/blob/main/public/assets/capa.png?raw=true "Ekart home page")
 
-Ignite-timer é 
 
 #### As funcionalidades comuns são:-
 
